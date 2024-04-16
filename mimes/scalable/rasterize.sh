@@ -1,0 +1,1 @@
+/home/epilys/.local/share/icons/Chicago95-tux/status/scalable/rasterize.sh
